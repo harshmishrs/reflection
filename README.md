@@ -6,7 +6,7 @@
 
 <p align="center">
 
-### WeebZone
+### Lion Mirror
 A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by `Codewithweeb` to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching.
 
 ### Source Code [Repo](https://github.com/codewithweeb/WeebZone)
