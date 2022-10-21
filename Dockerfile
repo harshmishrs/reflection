@@ -1,4 +1,4 @@
-FROM anasty17/mltb:heroku
+FROM akurumi/mltb:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
